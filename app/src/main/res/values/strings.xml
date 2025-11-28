@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">GuardianAI</string>
+    <string name="app_subtitle">Your Personal Health Sentinel</string>
+
+    <!-- Authentication -->
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_username">Email/Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already an existing user? Sign In</string>
+    <string name="new_user_create">New user? Create Account</string>
+
+    <!-- Onboarding -->
+    <string name="step_of_4">Step %1$d of 4</string>
+    <string name="basic_info">Basic Information</string>
+    <string name="lifestyle_habits">Lifestyle &amp; Habits</string>
+    <string name="medical_profile">Medical Profile</string>
+    <string name="autonomy_settings">Autonomy Settings</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="finish_setup">Finish Setup</string>
+
+    <!-- Profile Fields -->
+    <string name="full_name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="height_cm">Height (cm)</string>
+    <string name="weight_kg">Weight (kg)</string>
+    <string name="smoking">Do you smoke?</string>
+    <string name="alcohol">Do you consume alcohol?</string>
+    <string name="protein_intake">Protein intake</string>
+    <string name="leafy_vegetables">Leafy vegetable frequency</string>
+    <string name="water_intake_liters">Daily water intake (liters)</string>
+    <string name="weekly_exercise">Weekly Exercise Frequency</string>
+    <string name="sleep_hours">Average Sleep Hours</string>
+
+    <!-- Medical -->
+    <string name="known_conditions">Known Conditions</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="hypertension">Hypertension</string>
+    <string name="asthma">Asthma</string>
+    <string name="heart_disease">Heart Disease</string>
+    <string name="arthritis">Arthritis</string>
+    <string name="allergies">Allergies</string>
+    <string name="thyroid_disorder">Thyroid Disorder</string>
+    <string name="none">None</string>
+    <string name="other_conditions">Other conditions</string>
+    <string name="current_medications">Current Medications</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="emergency_contact_name">Emergency Contact Name</string>
+    <string name="emergency_contact_phone">Emergency Contact Phone</string>
+    <string name="primary_doctor">Primary Doctor</string>
+    <string name="primary_doctor_name">Primary Doctor Name</string>
+    <string name="primary_doctor_phone">Primary Doctor Phone</string>
+
+    <!-- Autonomy -->
+    <string name="semi_automatic">Semi-Automatic</string>
+    <string name="fully_automatic">Fully Automatic</string>
+    <string name="notify_doctor">Notify Doctor</string>
+    <string name="emergency_call">Emergency Call</string>
+    <string name="notify_hospital">Notify Hospital</string>
+    <string name="call_ambulance">Call Ambulance</string>
+
+    <!-- Main Screens -->
+    <string name="hello_user">Hello, %1$s</string>
+    <string name="sos">SOS</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="spo2">SpO₂</string>
+    <string name="stress">Stress</string>
+    <string name="sleep">Sleep</string>
+    <string name="updated_every_15_minutes">Updated every 15 minutes</string>
+    <string name="metrics_refresh_info">Metrics refresh every 15 minutes. If anomalies are detected, GuardianAI rechecks within 2 minutes before triggering alerts.</string>
+
+    <!-- Predictions -->
+    <string name="predictions">Predictions</string>
+    <string name="hydration_reminder">Hydration Reminder</string>
+    <string name="elevated_stress">Elevated Stress</string>
+    <string name="low_sleep_quality">Low Sleep Quality</string>
+    <string name="irregular_heart_rate">Irregular Heart Rate Pattern</string>
+    <string name="what_ai_detected">What AI detected</string>
+    <string name="why_suspicious">Why suspicious</string>
+    <string name="severity">Severity</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="close">Close</string>
+    <string name="done">Done</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="basic_info_title">Basic Info</string>
+    <string name="lifestyle_title">Lifestyle &amp; Habits</string>
+    <string name="medical_profile_title">Medical Profile</string>
+    <string name="emergency_contacts_title">Emergency Contacts</string>
+
+    <!-- Emergency -->
+    <string name="emergency_alert_sent">Emergency Alert Sent</string>
+    <string name="vital_summary">Vital Summary</string>
+    <string name="last_updated">Last updated: %1$s</string>
+    <string name="nearest_hospital">Nearest Hospital: %1$s (%2$s)</string>
+    <string name="emergency_services_notified">Emergency services notified. Help is on the way.</string>
+    <string name="call_emergency_services">Call Emergency Services</string>
+
+    <!-- Alert Modal -->
+    <string name="health_warning_detected">Health Warning Detected</string>
+    <string name="pause_predictions_1_hour">Pause predictions for 1 hour</string>
+    <string name="im_not_okay">I\'m Not Okay</string>
+    <string name="cancel_alert">Cancel</string>
+
+    <!-- Developer Mode -->
+    <string name="developer_mode">Developer Mode</string>
+    <string name="time_compression">Time Compression</string>
+    <string name="scenario_injection">Scenario Injection</string>
+    <string name="debug_overlay">Debug Overlay</string>
+    <string name="threshold_override">Threshold Override</string>
+
+    <!-- Options -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="occasionally">Occasionally</string>
+    <string name="daily">Daily</string>
+    <string name="weekly_4_5_times">4-5 times per week</string>
+    <string name="weekly_2_3_times">2-3 times per week</string>
+    <string name="rarely">Rarely</string>
+    <string name="none_exercise">None</string>
+    <string name="exercise_1_2_times">1-2 times per week</string>
+    <string name="exercise_3_4_times">3-4 times per week</string>
+    <string name="exercise_5_plus_times">5+ times per week</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+
+    <!-- Severity Levels -->
+    <string name="severity_low">Low</string>
+    <string name="severity_moderate">Moderate</string>
+    <string name="severity_high">High</string>
+    <string name="severity_critical">Critical</string>
+
+    <!-- Units -->
+    <string name="bpm">bpm</string>
+    <string name="percent">%</string>
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+    <string name="seconds">seconds</string>
+    <string name="liters">L</string>
+    <string name="kilograms">kg</string>
+    <string name="centimeters">cm</string>
+
+    <!-- Chart Tabs -->
+    <string name="hr_tab">HR</string>
+    <string name="spo2_tab">SpO₂</string>
+    <string name="stress_tab">Stress</string>
+    <string name="sleep_tab">Sleep</string>
+    <string name="steps_tab">Steps</string>
+
+    <!-- Errors and Validation -->
+    <string name="error_email_invalid">Invalid email format</string>
+    <string name="error_password_length">Password must be at least 8 characters</string>
+    <string name="error_passwords_not_match">Passwords do not match</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_age_range">Age must be between 15 and 100</string>
+    <string name="error_phone_invalid">Invalid phone number</string>
+
+    <!-- Permissions -->
+    <string name="permission_location_title">Location Permission</string>
+    <string name="permission_location_message">GuardianAI needs location access for emergency services and hospital finding during health emergencies.</string>
+    <string name="permission_phone_title">Phone Permission</string>
+    <string name="permission_phone_message">GuardianAI needs phone access to call emergency services during critical health situations.</string>
+    <string name="permission_denied_message">Permission denied. Some emergency features may not work properly.</string>
+    <string name="grant_permission">Grant Permission</string>
+
+    <!-- Content Descriptions for Accessibility -->
+    <string name="cd_sos_button">Emergency SOS button</string>
+    <string name="cd_back_button">Back</string>
+    <string name="cd_edit_button">Edit</string>
+    <string name="cd_save_button">Save</string>
+    <string name="cd_cancel_button">Cancel</string>
+    <string name="cd_next_button">Next</string>
+    <string name="cd_vitals_chart">Vitals chart showing %1$s over time</string>
+    <string name="cd_risk_gauge">Current health risk level gauge</string>
+    <string name="cd_emergency_map">Map showing current location and nearest hospital</string>
+</resources>

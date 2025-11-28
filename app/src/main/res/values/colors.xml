@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Neon Colors -->
+    <color name="neon_aqua">#00E5FF</color>
+    <color name="neon_aqua_dark">#00ACC1</color>
+    <color name="neon_aqua_light">#80FFFFFF</color>
+
+    <!-- Accent Colors -->
+    <color name="lime_accent">#C6FF00</color>
+    <color name="lime_accent_dark">#9E9D24</color>
+
+    <!-- SOS/Emergency Colors -->
+    <color name="emergency_red">#FF1744</color>
+    <color name="emergency_red_dark">#D50000</color>
+    <color name="emergency_red_light">#FF8A80</color>
+
+    <!-- Status Colors -->
+    <color name="status_green">#4CAF50</color>
+    <color name="status_yellow">#FFC107</color>
+    <color name="status_orange">#FF9800</color>
+    <color name="status_red">#F44336</color>
+
+    <!-- Background Colors -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_surface_variant">#2A2A2A</color>
+
+    <!-- Glassmorphism Colors -->
+    <color name="glass_surface">#33000000</color>
+    <color name="glass_surface_variant">#1A1A1A1A</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="glass_border_neon">#6600E5FF</color>
+    <color name="glass_border_emergency">#66FF1744</color>
+
+    <!-- Text Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_secondary">#B3FFFFFF</color>
+    <color name="white_tertiary">#80FFFFFF</color>
+    <color name="white_disabled">#4DFFFFFF</color>
+
+    <!-- Chart Colors -->
+    <color name="chart_heart_rate">#FF1744</color>
+    <color name="chart_spo2">#00E5FF</color>
+    <color name="chart_stress">#FFC107</color>
+    <color name="chart_sleep">#9C27B0</color>
+    <color name="chart_steps">#4CAF50</color>
+
+    <!-- Risk Level Colors -->
+    <color name="risk_low">#4CAF50</color>
+    <color name="risk_moderate">#FFC107</color>
+    <color name="risk_elevated">#FF9800</color>
+    <color name="risk_high">#FF5722</color>
+    <color name="risk_critical">#D32F2F</color>
+
+    <!-- Progress Colors -->
+    <color name="progress_complete">#00E5FF</color>
+    <color name="progress_incomplete">#2A2A2A</color>
+
+    <!-- Input Field Colors -->
+    <color name="input_background">#1A1A1A</color>
+    <color name="input_border">#424242</color>
+    <color name="input_border_focused">#00E5FF</color>
+    <color name="input_border_error">#FF1744</color>
+
+    <!-- Shadow and Overlay Colors -->
+    <color name="shadow_color">#80000000</color>
+    <color name="overlay_dim">#66000000</color>
+    <color name="overlay_emergency">#A6FF1744</color>
+
+    <!-- Material Theme Colors (for components that need them) -->
+    <color name="md_theme_light_primary">#00E5FF</color>
+    <color name="md_theme_light_onPrimary">#000000</color>
+    <color name="md_theme_light_primaryContainer">#00B8CC</color>
+    <color name="md_theme_light_onPrimaryContainer">#FFFFFF</color>
+    <color name="md_theme_light_secondary">#C6FF00</color>
+    <color name="md_theme_light_onSecondary">#000000</color>
+    <color name="md_theme_light_secondaryContainer">#9E9D24</color>
+    <color name="md_theme_light_onSecondaryContainer">#FFFFFF</color>
+    <color name="md_theme_light_tertiary">#FF1744</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#D50000</color>
+    <color name="md_theme_light_onTertiaryContainer">#FFFFFF</color>
+    <color name="md_theme_light_error">#FF1744</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_background">#121212</color>
+    <color name="md_theme_light_onBackground">#FFFFFF</color>
+    <color name="md_theme_light_surface">#1E1E1E</color>
+    <color name="md_theme_light_onSurface">#FFFFFF</color>
+    <color name="md_theme_light_outline">#424242</color>
+    <color name="md_theme_light_outlineVariant">#616161</color>
+
+    <color name="md_theme_dark_primary">#00E5FF</color>
+    <color name="md_theme_dark_onPrimary">#000000</color>
+    <color name="md_theme_dark_primaryContainer">#00B8CC</color>
+    <color name="md_theme_dark_onPrimaryContainer">#FFFFFF</color>
+    <color name="md_theme_dark_secondary">#C6FF00</color>
+    <color name="md_theme_dark_onSecondary">#000000</color>
+    <color name="md_theme_dark_secondaryContainer">#9E9D24</color>
+    <color name="md_theme_dark_onSecondaryContainer">#FFFFFF</color>
+    <color name="md_theme_dark_tertiary">#FF1744</color>
+    <color name="md_theme_dark_onTertiary">#FFFFFF</color>
+    <color name="md_theme_dark_tertiaryContainer">#D50000</color>
+    <color name="md_theme_dark_onTertiaryContainer">#FFFFFF</color>
+    <color name="md_theme_dark_error">#FF1744</color>
+    <color name="md_theme_dark_onError">#FFFFFF</color>
+    <color name="md_theme_dark_background">#121212</color>
+    <color name="md_theme_dark_onBackground">#FFFFFF</color>
+    <color name="md_theme_dark_surface">#1E1E1E</color>
+    <color name="md_theme_dark_onSurface">#FFFFFF</color>
+    <color name="md_theme_dark_outline">#424242</color>
+    <color name="md_theme_dark_outlineVariant">#616161</color>
+</resources>
